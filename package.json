@@ -17,5 +17,13 @@
     "mongoose": "^7.4.5"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetan-Surya-D/MovieForumBackend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chetan-Surya-D/MovieForumBackend/issues"
+  },
+  "homepage": "https://github.com/Chetan-Surya-D/MovieForumBackend#readme",
   "description": ""
 }
